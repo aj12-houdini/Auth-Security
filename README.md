@@ -21,11 +21,11 @@ This repository contains a Node.js project that demonstrates authentication and 
 ## Configuration
 
 1. Create a `.env` file in the project root and add the following configuration:
-   MONGODB_URI=mongodb://localhost:27017/auth-security
-   SECRET=Thisisoursecret.
-   SALT_ROUNDS= Any number
-   GITHUB_CLIENT_ID=Enter client id
-   GITHUB_CLIENT_SECRET=Enter client secret
+2. MONGODB_URI=mongodb://localhost:27017/auth-security
+3. SECRET=Thisisoursecret.
+4. SALT_ROUNDS= Any number
+5. GITHUB_CLIENT_ID=Enter client id
+6. GITHUB_CLIENT_SECRET=Enter client secret
 
 ## Usage
 
