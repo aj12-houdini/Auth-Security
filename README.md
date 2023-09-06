@@ -12,7 +12,7 @@ This repository contains a Node.js project that demonstrates authentication and 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/aj12-houdini/auth-security-nodejs.git`
+1. Clone the repository: `git clone https://github.com/aj12-houdini/Auth-Security.git`
 2. Navigate to the project directory: `cd Authentication`
 3. Install dependencies: `npm install`
 4. Configure your MongoDB connection and OAuth credentials
@@ -50,7 +50,6 @@ This repository contains a Node.js project that demonstrates authentication and 
 ![Screenshot 2](public/Screenshots//Screenshot2.jpg)
 ![Screenshot 3](public/Screenshots/Screenshot3.jpg)
 
-
 ## Contributing
 
-Contributions are welcome! If you have ideas for improvements or find any issues, please [open an issue](https://github.com/aj12-houdini/auth-security-nodejs/issues) or submit a pull request.
+Contributions are welcome! If you have ideas for improvements or find any issues, please [open an issue](https://github.com/aj12-houdini/Auth-Security/issues) or submit a pull request.
