@@ -46,9 +46,9 @@ This repository contains a Node.js project that demonstrates authentication and 
 
 ## Screenshots
 
-![Screenshot 1](public\Screenshots\Screenshot1.jpg)
-![Screenshot 2](public\Screenshots\Screenshot2.jpg)
-![Screenshot 3](public\Screenshots\Screenshot3.jpg)
+![Screenshot 1](public/Screenshots/Screenshot1.jpg)
+![Screenshot 2](public/Screenshots//Screenshot2.jpg)
+![Screenshot 3](public/Screenshots/Screenshot3.jpg)
 
 
 ## Contributing
